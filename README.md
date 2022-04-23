@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **AI in Computer Graphics**
 
-- 💬 Ask me about **Blockchain, Deep Learning and Autonomous Mobility**
+- 💬 Ask me about **Deep Learning in computer vision and Autonomous Mobility**
 
 - 📫 How to reach me **ashwanth.a.r@gmail.com**
 
